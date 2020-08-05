@@ -2,11 +2,21 @@ p {
    text-align: justify; 
 }
 
+.mobil-img {
+  float: left;
+  width: 250px;
+  margin-right: 20px;
+  margin-bottom: 10px; 
+  border-style: solid;
+  border-color: #b700ff;
+  border-width: 1px;
+}
+
 .img-left {
   float: left;
-  height: 250px;
-  padding-left: 10px;
-  padding-bottom: 10px;
+  width: 250px;
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
 
 
