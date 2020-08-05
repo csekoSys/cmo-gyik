@@ -1,0 +1,12 @@
+p {
+   text-align: justify; 
+}
+
+.img-left {
+  float: left;
+  height: 250px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+
