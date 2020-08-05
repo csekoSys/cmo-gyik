@@ -2,9 +2,18 @@ p {
    text-align: justify; 
 }
 
+.main-pages {
+  position: relative;
+}
+
+.content-block {
+  clear: both;
+}
+
 .mobil-img {
   float: left;
-  width: 250px;
+  width: 80px;
+  margin-top: 10px;
   margin-right: 20px;
   margin-bottom: 10px; 
   border-style: solid;
