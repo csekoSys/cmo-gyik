@@ -1,1 +1,1 @@
-"# cmo-gyik" 
+cmo
