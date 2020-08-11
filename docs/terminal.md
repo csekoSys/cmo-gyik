@@ -1,11 +1,11 @@
 # Bankkártya terminál
 
-## Szükséges dokumentumod
+## Szükséges dokumentumok
 + vvvvv
 + vvvvv
 + vvvvv
 
-## Szükséges dokumentumod
+## Szükséges dokumentumok
 + vvvvv
 + vvvvv
 + vvvvv

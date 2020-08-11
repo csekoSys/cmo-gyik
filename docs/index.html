@@ -56,12 +56,16 @@
   <script>
       window.$docsify = {
         el: "#app",
+//        logo: '/media/cmo-icon.ico',
         coverpage: false,
         homepage: "kezdolap.md",
         loadNavbar: "navbar.md",
         loadSidebar: true,
+        alias: {
+        '/.*/_sidebar.md': '/_sidebar.md',
+        },
         subMaxLevel: 3,
-        mergeNavbar: true,
+//        mergeNavbar: true,
 
         search: "auto",
 

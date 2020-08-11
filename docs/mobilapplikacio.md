@@ -7,10 +7,15 @@
 ## Regisztráció és bejelentkezés
 > Amennyiben regisztráltál már a webalkalmazásunkba, nincs más dolgod, mint azzal a felhasználónévvel bejelentkezni a mobilalkalmazásunkba, és minden beállításod, cikked, és partneredet látni fogod.
 
-<div class="content-block">
-
 ### Regisztráció
-</div>
+<img class="mobil-img" src="media/mobil/3.jpg" />
+<p>Szöveg a kép mellé körbeé körbe Szöveg a kép mellé körbe Szöveg a kép mellé körbe </p>
+
+<img class="mobil-img" src="media/mobil/3.jpg" />
+<p>Szöveg a kép mellé körbeé körbe Szöveg a kép mellé körbe Szöveg a kép mellé körbe </p>
+
+<img class="mobil-img" src="media/mobil/3.jpg" />
+<p>Szöveg a kép mellé körbeé körbe Szöveg a kép mellé körbe Szöveg a kép mellé körbe </p>
 
 
 <div class="content-block">
