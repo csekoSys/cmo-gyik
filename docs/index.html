@@ -79,6 +79,11 @@
           hideOtherSidebarContent: false, // whether or not to hide other sidebar content
         },
 
+        themeable: {
+          readyTransition : true, // default
+          responsiveTables: true  // default
+      },
+
         // plugins: [
         //   EditOnGithubPlugin.create(
         //     "https://github.com/rajmat/cmo-docsify/blob/master/docs/",
@@ -95,7 +100,14 @@
     <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+
+    <!-- Összecsukható bal menü -->>
     <script src="https://cdn.jsdelivr.net/gh/jackbentley/docsify-sidebar-collapse@build/dist/docsify-sidebar-collapse.min.js"></script>
+
+    <!-- Responsive table -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
+
+
     <!-- <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script> -->
     <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script> -->
     <!-- <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script> -->
