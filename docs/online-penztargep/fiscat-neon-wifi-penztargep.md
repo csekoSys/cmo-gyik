@@ -4,7 +4,7 @@
 
 
 ## Technikai leírás
-| <div style="width:290px">Tulajdonság</div> | Érték |
+| <div style="width:200px">Tulajdonság</div> | Érték |
 | -------------- | ----------- |
 | Terméknév:| Fiscat Neon+WiFi |
 | Engedélyszám:| A241 |

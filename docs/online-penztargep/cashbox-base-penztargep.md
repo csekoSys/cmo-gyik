@@ -8,7 +8,7 @@ A CashBox pénztárgép család első tagja a base nevet kapta, mely hasonlóan 
 ## Technikai leírás
 A pénztárgép gyors termo nyomtatóval rendelkezik (22 sor/sec) melynek nagy előnye még a gyors egy pattintátos papírszalag csere. Legyen szó mérleg kezelésről vagy bankkártya terminál vagy számítógép (vagy a későbbiekben, wifi/UTP hálózaton keresztül, felhő szolgáltatás) csatlakoztatásáról a CashBox base online pénztárgép mindig hű és innovatív társa lesz a munkában.
 
-| <div style="width:290px">Tulajdonság</div> | Érték |
+| Tulajdonság | Érték |
 | -------------- | ----------- |
 | Engedély szerinti típus: | CashBox base online pénztárgép | 
 | Forgalmazó: | LA Pénztárgép Kft | 
@@ -27,6 +27,6 @@ A pénztárgép gyors termo nyomtatóval rendelkezik (22 sor/sec) melynek nagy e
 | PC program PLU feltöltéshez: | nincs | 
 | Külső csatlakozások:	Fizikai : | 2 db USB A, 1 db USB AB, 1db Ethernet, 1 db RS232 RJ12,1db kasszanyitó RJ12, Tápfesz 9V csatlakozó. Rátehető: Vonalkód olvasó, fizető terminál, Mérleg, PC , kassza 12V | 
 | Elektronikus ellenörző szalag: | igen van és nyomtatható magával a pénztárgéppel | 
-| Szoftver frissítések: | Távolról NAV-on keresztül| 
+| Szoftver frissítések: | Távolról NAV-on keresztül | 
 
 *Forrás: A pénztárgép forgalmazója: [LA Pénztárgép Kft.](https://www.apenztargep.hu/)*

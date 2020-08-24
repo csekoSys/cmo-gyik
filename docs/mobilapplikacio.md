@@ -5,7 +5,7 @@
 <p>ha csak sima szöveget kell írnom az minek minősűl . Talám p elem? ha csak sima szöveget kell írnom az minek minősűl . Talám p elem? ha csak sima szöveget kell írnom az minek minősűl . Talám p elem? ha csak sima szöveget kell írnom az minek minősűl . Talám p elem? ha csak sima szöveget kell írnom az minek minősűl . Talám p elem? ha csak sima szöveget kell írnom az minek minősűl . Talám p elem? ha csak sima szöveget kell írnom az minek minősűl . Talám p elem? ha csak sima szöveget kell írnom az minek minősűl . Talám p elem? ha csak sima szöveget kell írnom az minek minősűl . Talám p elem? ha csak sima szöveget kell írnom az minek minősűl . Talám p elem? </p>
 
 ## Regisztráció és bejelentkezés
-> Amennyiben regisztráltál már a webalkalmazásunkba, nincs más dolgod, mint azzal a felhasználónévvel bejelentkezni a mobilalkalmazásunkba, és minden beállításod, cikked, és partneredet látni fogod.
+!> Amennyiben regisztráltál már a webalkalmazásunkba, nincs más dolgod, mint azzal a felhasználónévvel bejelentkezni a mobilalkalmazásunkba, és minden beállításod, cikked, és partneredet látni fogod.
 
 ### Regisztráció
 <img class="mobil-img" src="media/mobil/3.jpg" />
